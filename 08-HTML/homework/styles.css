@@ -1,0 +1,17 @@
+
+<style>
+    p { color: red; }
+    img { width: 400px;
+
+    }
+    #thirdDiv {
+        width: 500px;
+        height: 600px;
+        background-color:rgb(255, 234, 0);
+        border: 1px solid rgb(0, 255, 225);}
+    #spanId { font-size: 18px;
+        margin: 50px;
+        padding: 50px;   
+    }
+
+   </style>
